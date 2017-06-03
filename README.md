@@ -1,2 +1,2 @@
-# batch_normalization
-Batch normalization lesson notebooks in tensorflow.
+# Generative Adversarial Networks
+Implementations of different GAN models and architectures.
